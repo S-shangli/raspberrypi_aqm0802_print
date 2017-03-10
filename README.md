@@ -56,5 +56,5 @@ you can see "hello world" in the LCD.
 
 ## PNP Tr wrokings
 AQM0802, AQM1602 is lower sink power at SDA. they can't drive-L at I2C bus (SDA). 
-Therefore I2C communication will fail.
+Therefore I2C communication will fail.  
 PNP tr is help this problem.
